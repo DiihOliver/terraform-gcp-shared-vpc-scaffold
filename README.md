@@ -1,4 +1,4 @@
-# Terraform GCP Shared VPC Scaffold
+# 🚀 Terraform GCP Shared VPC Scaffold
 
 A production-ready Terraform scaffold for deploying modern applications on Google Cloud Platform (GCP) using a secure Shared VPC architecture. This repository provides a comprehensive set of reusable modules and live environment examples (dev/prod) to rapidly establish a robust and scalable foundation for your infrastructure.
 
