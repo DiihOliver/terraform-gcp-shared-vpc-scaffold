@@ -127,6 +127,13 @@ This separation ensures that changes to one application don't impact another and
 
 ---
 
+### 🌐 Explore My Other Projects
+
+| Project | Description |
+|---------|-------------|
+| 🌥️ [cloud-native-gcp-deployment](https://github.com/parth-koli67/cloud-native-gcp-deployment) | A modular setup for deploying containerized applications on GKE with CI/CD. |
+
+
 ## Contributing 🤝
 
 Contributions are welcome! Please feel free to submit any suggestions or open an issue for any bugs, feature requests, or improvements.
