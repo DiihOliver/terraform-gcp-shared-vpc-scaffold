@@ -1,0 +1,5 @@
+project_id                  = "<service-project-id>"
+pool_display_name           = "github-actions-pool"
+jenkins_pool_display_name   = "jenkins-pool"
+aws_account_id              = ""
+github_owner                = "<github-org-name>"
